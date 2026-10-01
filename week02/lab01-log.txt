@@ -1,0 +1,16 @@
+ 1072  nano ~/coding-cafe/week02/notes.md
+ 1073  man man
+ 1074  nano ~/coding-cafe/week02/notes.md
+ 1075  cd cod
+ 1076  cd ..
+ 1077  cd coding-cafe
+ 1078  cd ..
+ 1079  cd Breakish/assets
+ 1080  cd ..
+ 1081  history
+ 1082  python3 
+ 1083  nano ~/coding-cafe/week02/notes.md
+ 1084  history > week02/lab01-log.txt\n\n
+ 1085  cd ..
+ 1086  history > week02/lab01-log.txt
+ 1087  cd coding-cafe
